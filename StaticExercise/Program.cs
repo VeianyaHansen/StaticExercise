@@ -12,6 +12,7 @@ namespace StaticExercise
             Console.WriteLine("After conversion:");
             Console.WriteLine($"Celsius: {celsius}");
             Console.WriteLine($"Fahrenheit: {fahrenheit}");
+
         }
     }
 }
